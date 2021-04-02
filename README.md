@@ -4,4 +4,4 @@ To start project you just need:
 - Use **npm i** for install dependencies
 - Use **npm start** for run
 
-Сейчас переменные окружения видны, но правильно было бы конечно их убрать в gitignore
+Сейчас переменные окружения видны, но правильно убрать их в gitignore
