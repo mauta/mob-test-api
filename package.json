@@ -1,0 +1,23 @@
+{
+  "name": "mob-test-api",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauta/mob-test-api.git"
+  },
+  "author": "anna.opareva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauta/mob-test-api/issues"
+  },
+  "homepage": "https://github.com/mauta/mob-test-api#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
